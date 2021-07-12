@@ -1,3 +1,3 @@
-# Why left-foot braking is faster
+# My blog
 
-Do you use your left foot to brake on track? If not, you should...it's faster.
+This is a blog about...whatever.
