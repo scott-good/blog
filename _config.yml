@@ -1,0 +1,11 @@
+# basic options
+title: GoodThinking blog
+author: Scott Good
+email: jsg1901@gmail.com
+description: Various thoughts...
+twitter_username: jscottgood
+github_username: scott-good
+
+# build settings
+markdown: kramdown
+theme: minima
