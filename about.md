@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="test.css">
 ---
 layout: page
 title: About
@@ -7,7 +6,7 @@ title: About
 This is an about page about this awesome site.
 Hope you love it!
 
-<div class='aside'>
+<div class='aside' style='background: #eee;'>
   Reasons:
 - Seemed like a good idea
 - I'm learning while I go
