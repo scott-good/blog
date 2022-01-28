@@ -2,7 +2,13 @@
 layout: page
 title: About
 ---
-
+<style>
+  .aside {
+    background: #eee;
+    border: 1pt solid #666;
+    padding: 10px;
+  }
+</style>
 This is an about page about this awesome site.
 Hope you love it!
 
