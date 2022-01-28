@@ -1,10 +1,4 @@
-<style type='text/css'>
-  .aside {
-    background: #eee;
-    border: 1pt solid #666;
-    padding: 10px;
-  }
-</style>
+<link rel="stylesheet" href="path/to/css/splendor.css">
 ---
 layout: page
 title: About
