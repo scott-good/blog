@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="path/to/css/splendor.css">
+<link rel="stylesheet" href="test.css">
 ---
 layout: page
 title: About
