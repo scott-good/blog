@@ -37,7 +37,21 @@ CELEBRATE: Congratulations, you have successfully deployed and launched HCL Acce
   
 SECTION 1-2: Steps to seed HCL Accelerate with demo data
 
-As HCL Accelerate is data driven and the data is date sensitive, for the purposes of this demo it is important to seed the HCL Accelerate environment with meaningful data simulating integrations with the many tools that typically make up a DevOps pipeline. Tools used for the purposes of planning, continuous integration, continuous delivery, continuous testing, and continuous availability.
+As HCL Accelerate is data driven and the data is date sensitive, for the purposes of this demo it is important to seed the HCL Accelerate environment with meaningful data simulating integrations with the many tools that typically make up a DevOps pipeline. Tools used for the purposes of planning, continuous integration, continuous delivery, continuous testing, and continuous availability.<img align="right" style="width:40%;" src="https://hclcr.io/files/sofy/catalog/hcl-accelerate-demo/generic/accelerate_GettingStarted.png" />
+  
+**WARNING: Integrations with external repositories, not managed by HCL Software, are not permitted in a SoFy demo environment. To integrate HCL Accelerate with your tool repositories, please reach out to your HCL Software Sales Rep and ask about a Proof of Concept activity.**
+  
+1. Having navigated to the HCL Accelerate authentication page, log in using "admin" for both the Username and Password. Click "Login".
+2. On the "Getting started with HCL Accelerate" page, click "Install demo data" in the *Try sample demo data* panel.
+  
+  <details><summary>HINT</summary>
+   The Accelerate Getting started page is displayed once by default after the initial log in. If you are not presented with the "Getting started" page after authenticating with Accelerate, click the "?" on the top navigation bar and select "Getting started" from the list of options presented.</details>
+
+3. When the demo data has finished loading (Install complete), navigate to the Settings page gear icon and click Integrations.
+4. Disable the EMRI_Bottleneck integration.
+5. Enable the EMRI_Bottleneck integration to trigger the bottleneck algorithm calculations.
+
+ADDITIONAL INFO: During the "Populating data" stage of the demo data load, a large number of data points will automatically be written to the MongoDB (Accelerate's repository). As this can take some time, please be patient (up to 15 minutes). The "Try sample demo data" progress bar will show when the demo data has been successfully loaded.
 </details>
 ---
 
