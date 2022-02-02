@@ -6,10 +6,10 @@ It is a long established fact that a reader will be distracted by the readable c
 
 
 
-<details><summary>Collapsible Sections</summary>
+<details><summary>**Collapsible Sections**</summary>
   <ul>
-    <li>Seemed like a *good* idea</li>
-    <li>I'm learning while I go</li>
+    <li>Some content needs to be written as HTML, such as unordered lists.</li>
+    <li>On the other hand, quite a lot of markdown still works properly.</li>
   </ul>
 </details>
 <details><summary>Products Involved</summary>
