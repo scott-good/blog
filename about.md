@@ -10,7 +10,7 @@ It is a long established fact that a reader will be distracted by the readable c
 
 
 
-<details>Reasons
+<details><summary>Reasons</summary>
   - Seemed like a good idea
   - I'm learning while I go
 </details>
