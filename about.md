@@ -12,6 +12,7 @@ It is a long established fact that a reader will be distracted by the readable c
     <li>I'm learning while I go</li>
   </ul>
 </details>
+
 ## Other thoughts
 
 Should have learned this a while ago!
