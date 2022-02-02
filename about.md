@@ -6,13 +6,54 @@ It is a long established fact that a reader will be distracted by the readable c
 
 
 
-<details markdown="1"><summary>Reasons</summary>
+<details><summary>Collapsible Sections</summary>
   <ul>
     <li>Seemed like a *good* idea</li>
     <li>I'm learning while I go</li>
   </ul>
 </details>
+<details><summary>Products Involved</summary>
 
+| | |
+| --- | --- |
+| HCL Products included in this demo | HCL OneDB 2.0.1.1 or higher (Helm chart v0.4.14 or later) |
+| Estimated install time before ready to use | 6 minutes |
+
+</details>
+
+<details><summary>How It Works In SoFy</summary>
+
+### Access URLs
+
+Build a solution with OneDB and the HCL OneDB High Availability (HA) & Scale-Out Demo Pack, and deploy it into the sandbox. Once your SoFy solution is deployed, you can find all access URLs for this service from the SoFy Solution Console.
+
+1. OneDB Scale-Out demo home page will be at:
+
+   `https://onedb-scale-app.{sandbox-id}.play.{sofy-domain}`
+
+   For example, `https://onedb-scale-app.sbx0034.play.sofy.dev/`
+
+2. OneDB Demo Pack home page will be at:
+
+   `https://onedbdemo.{sandbox-id}.play.{sofy-domain}`
+
+   For example, `https://onedbdemo.sbx0034.play.sofy.dev/`
+
+3. SoFy Solution Console will be at:
+
+   `https://sofy-console.{sandbox-id}.play.{sofy-domain}`
+
+   For example, `https://sofy-console.sbx0034.play.sofy.dev/`
+
+</details>
+
+<details><summary>Troubleshooting and Limitations</summary>
+
+### Limitations
+
+- This demo pack will only function properly in SoFy sandbox environments because it does not work with self-signed certs.
+
+</details>
 ## Other thoughts
 
 Should have learned this a while ago!
