@@ -1,9 +1,14 @@
-# Product Name
+# HCL Accelerate
 ## Overview
-<img align="right" src="https://github.com/scott-good/blog/blob/main/ColorWaves_BG.jpg" style="width:50%;"/>**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+<img align="right" src="https://www.hcltechsw.com/wps/wcm/connect/306fda5a-0485-4593-876b-d8f4a221b9cf/unprecendented%2Bvisibility%2Binto%2Byour%2Bvalue%2Bstream.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-306fda5a-0485-4593-876b-d8f4a221b9cf-nWaUQ84" style="width:50%;"/>**Bring unity to your DevOps strategy with HCL Accelerate**, a Value Stream Management platform that brings DevOps data together once-and-for-all. Accelerate helps organizations get the most out of their DevOps investments by optimizing delivery pipeline flow, increasing throughput, identifying bottlenecks, and unifying data from across your organization so that teams can make intelligent business decisions based on data.
 
-**Why do we use it?**
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+**Capabilities include**:
+
+- DevOps Analytics: Transformation leaders can realize the value of hidden continuous delivery data by making it visible and actionable.
+- Pipeline Aggregation: Development teams with complex, multi-service applications can orchestrate their continuous delivery pipelines in a single view.
+- Release Management: Release teams can move to more frequent releases with lightweight, self-service tools including templates and automated controls.
+- Value Stream Visualization: Delivery teams can go beyond traditional Agile views to provide real-time transparency from concept to production.
+- Strategic Decision Making: Executives get a complete picture of the DevOps organization, and can identify the top-performing teams to harvest best practices.
 
 <details><summary><strong>What’s New in this Helm Chart Version</strong></summary>
   
