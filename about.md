@@ -9,12 +9,12 @@ It is a long established fact that a reader will be distracted by the readable c
 <details><summary><strong>Collapsible Sections</strong></summary>
   <ul>
     <li>Some content needs to be written as HTML, such as unordered lists.</li>
-    <li>On the other hand, quite a lot of markdown still works properly.</li>
+    <li>On the other hand, quite a lot of markdown still works properly, as shown in the following sections.</li>
   </ul>
 </details>
 <details><summary><strong>Products Involved</strong></summary>
 
-| | |
+| Item | Details |
 | --- | --- |
 | HCL Products included in this demo | HCL OneDB 2.0.1.1 or higher (Helm chart v0.4.14 or later) |
 | Estimated install time before ready to use | 6 minutes |
