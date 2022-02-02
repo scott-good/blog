@@ -10,6 +10,7 @@
 - Value Stream Visualization: Delivery teams can go beyond traditional Agile views to provide real-time transparency from concept to production.
 - Strategic Decision Making: Executives get a complete picture of the DevOps organization, and can identify the top-performing teams to harvest best practices.
 
+---
 <details><summary><strong>What’s New in this Helm Chart Version</strong></summary>
   
 </details>
