@@ -1,10 +1,9 @@
-<link rel="stylesheet" href="/html/styles.css">
 ---
 layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
+<img src="https://avatars.githubusercontent.com/u/47759411?s=48&v=4" />This is an about page about this awesome site.
 Hope you love it!
 
 Reasons:
