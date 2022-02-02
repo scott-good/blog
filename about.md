@@ -10,8 +10,36 @@
 - Value Stream Visualization: Delivery teams can go beyond traditional Agile views to provide real-time transparency from concept to production.
 - Strategic Decision Making: Executives get a complete picture of the DevOps organization, and can identify the top-performing teams to harvest best practices.
 
+<details><summary><strong>SECTION 1: Preparing for HCL Accelerate Demo</strong></summary>
+<details><summary>SECTION 1-1: Deploying HCL Accelerate to a SoFy sandbox</summary>
+
+In order to experience HCL Accelerate by completing the demo scenarios documented below, a working instance of HCL Software's value stream management solution must be running and seeded with data in a SoFy sandbox.
+
+Steps to deploying and launching HCL Accelerate
+
+Locate the HCL Accelerate product card in the SoFy catalog and click "Add to Solution".
+Enter a solution name and click "Create".
+
+HINT: Solution names must be lower case alphanumeric and cannot contain any special characters.
+
+ADDITIONAL INFO: Creating a SoFy solution will result in a custom helm chart being created for the purposes of bootstrapping the HCL Accelerate deployment in a kubernetes environment.
+
+Click "Deploy" to create the HCL Accelerate demo environment in a SoFy sandbox.
+
+Very quickly, SoFy will deploy HCL Accelerate to HCL's Google Cloud sandbox environment.
+
+When the deployment has completed, click on "View Solution Console" and authenticate with the credentials provided.
+In the Solution Content section of the Solution Console view, locate the HCL Accelerate card and click on "General Information".
+Click on the "Open Link" button to launch HCL Accelerate in a new browser tab.
+
+CELEBRATE: Congratulations, you have successfully deployed and launched HCL Accelerate in a SoFy Demo Sandbox.
+  </details>
+  
+SECTION 1-2: Steps to seed HCL Accelerate with demo data
+
+As HCL Accelerate is data driven and the data is date sensitive, for the purposes of this demo it is important to seed the HCL Accelerate environment with meaningful data simulating integrations with the many tools that typically make up a DevOps pipeline. Tools used for the purposes of planning, continuous integration, continuous delivery, continuous testing, and continuous availability.
+</details>
 ---
-<hr />
 
 <details><summary><strong>What’s New in this Helm Chart Version</strong></summary>
   
