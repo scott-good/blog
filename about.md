@@ -6,13 +6,13 @@ It is a long established fact that a reader will be distracted by the readable c
 
 
 
-<details><summary>**Collapsible Sections**</summary>
+<details><summary><strong>Collapsible Sections</strong></summary>
   <ul>
     <li>Some content needs to be written as HTML, such as unordered lists.</li>
     <li>On the other hand, quite a lot of markdown still works properly.</li>
   </ul>
 </details>
-<details><summary>Products Involved</summary>
+<details><summary><strong>Products Involved</strong></summary>
 
 | | |
 | --- | --- |
@@ -21,7 +21,7 @@ It is a long established fact that a reader will be distracted by the readable c
 
 </details>
 
-<details><summary>How It Works In SoFy</summary>
+<details><summary><strong>How It Works In SoFy</strong></summary>
 
 ### Access URLs
 
