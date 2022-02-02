@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="https://github.com/scott-good/blog/blob/main/ColorWaves_BG.jpg" style="width:30%;float:right;"/>This is an about page about this awesome site.
+<img align="right" src="https://github.com/scott-good/blog/blob/main/ColorWaves_BG.jpg" style="width:30%;"/>This is an about page about this awesome site.
 Hope you love it!
 
 Reasons:
