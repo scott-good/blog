@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/html/styles.css">
 ---
 layout: page
 title: About
