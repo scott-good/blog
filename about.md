@@ -11,6 +11,7 @@
 - Strategic Decision Making: Executives get a complete picture of the DevOps organization, and can identify the top-performing teams to harvest best practices.
 
 <details><summary><strong>SECTION 1: Preparing for HCL Accelerate Demo</strong></summary>
+  <br />
   <details><summary><strong>Deploying HCL Accelerate to a SoFy sandbox</strong></summary>
 In order to experience HCL Accelerate by completing the demo scenarios documented below, a working instance of HCL Software's value stream management solution must be running and seeded with data in a SoFy sandbox.
 
@@ -42,7 +43,10 @@ As HCL Accelerate is data driven and the data is date sensitive, for the purpose
 2. On the "Getting started with HCL Accelerate" page, click "Install demo data" in the *Try sample demo data* panel.
   
   <details><summary>HINT</summary>
-   The Accelerate Getting started page is displayed once by default after the initial log in. If you are not presented with the "Getting started" page after authenticating with Accelerate, click the "?" on the top navigation bar and select "Getting started" from the list of options presented.</details>
+  ---
+   *The Accelerate Getting started page is displayed once by default after the initial log in. If you are not presented with the "Getting started" page after authenticating with Accelerate, click the "?" on the top navigation bar and select "Getting started" from the list of options presented.*
+  ---
+  </details>
 
 3. When the demo data has finished loading (Install complete), navigate to the Settings page gear icon and click Integrations.
 4. Disable the EMRI_Bottleneck integration.
