@@ -37,7 +37,8 @@ CELEBRATE: Congratulations, you have successfully deployed and launched HCL Acce
   
   <details><summary>SECTION 1-2: Steps to seed HCL Accelerate with demo data</summary>
 
-As HCL Accelerate is data driven and the data is date sensitive, for the purposes of this demo it is important to seed the HCL Accelerate environment with meaningful data simulating integrations with the many tools that typically make up a DevOps pipeline. Tools used for the purposes of planning, continuous integration, continuous delivery, continuous testing, and continuous availability.<img align="right" style="width:40%;" src="https://hclcr.io/files/sofy/catalog/hcl-accelerate-demo/generic/accelerate_GettingStarted.png" />
+    
+As HCL Accelerate is data driven and the data is date sensitive, for the purposes of this demo it is important to seed the HCL Accelerate environment with meaningful data simulating integrations with the many tools that typically make up a DevOps pipeline. Tools used for the purposes of planning, continuous integration, continuous delivery, continuous testing, and continuous availability.<img align="left" style="width:50%;" src="https://hclcr.io/files/sofy/catalog/hcl-accelerate-demo/generic/accelerate_GettingStarted.png" />
   
 **WARNING: Integrations with external repositories, not managed by HCL Software, are not permitted in a SoFy demo environment. To integrate HCL Accelerate with your tool repositories, please reach out to your HCL Software Sales Rep and ask about a Proof of Concept activity.**
   
