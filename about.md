@@ -11,7 +11,7 @@
 - Strategic Decision Making: Executives get a complete picture of the DevOps organization, and can identify the top-performing teams to harvest best practices.
 
 <details><summary><strong>SECTION 1: Preparing for HCL Accelerate Demo</strong></summary>
-<details><summary>SECTION 1-1: Deploying HCL Accelerate to a SoFy sandbox</summary>
+  <details><summary><strong>SECTION 1-1: Deploying HCL Accelerate to a SoFy sandbox</strong></summary>
 
 In order to experience HCL Accelerate by completing the demo scenarios documented below, a working instance of HCL Software's value stream management solution must be running and seeded with data in a SoFy sandbox.
 
@@ -34,8 +34,7 @@ Click on the "Open Link" button to launch HCL Accelerate in a new browser tab.
 
 CELEBRATE: Congratulations, you have successfully deployed and launched HCL Accelerate in a SoFy Demo Sandbox.
   </details>
-  
-  <details><summary>SECTION 1-2: Steps to seed HCL Accelerate with demo data</summary>
+  <details><summary><strong>SECTION 1-2: Steps to seed HCL Accelerate with demo data</strong></summary>
 
     
 As HCL Accelerate is data driven and the data is date sensitive, for the purposes of this demo it is important to seed the HCL Accelerate environment with meaningful data simulating integrations with the many tools that typically make up a DevOps pipeline. Tools used for the purposes of planning, continuous integration, continuous delivery, continuous testing, and continuous availability.<img align="left" style="width:50%;" src="https://hclcr.io/files/sofy/catalog/hcl-accelerate-demo/generic/accelerate_GettingStarted.png" />
