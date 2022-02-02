@@ -11,8 +11,10 @@ It is a long established fact that a reader will be distracted by the readable c
 
 
 <details><summary>Reasons</summary>
-- Seemed like a good idea
-- I'm learning while I go
+  <ul>
+    <li>Seemed like a good idea</li>
+    <li>I'm learning while I go</li>
+  </ul>
 </details>
 ## Other thoughts
 
