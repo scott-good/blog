@@ -54,6 +54,7 @@ Build a solution with OneDB and the HCL OneDB High Availability (HA) & Scale-Out
 - This demo pack will only function properly in SoFy sandbox environments because it does not work with self-signed certs.
 
 </details>
+
 ## Other thoughts
 
-Should have learned this a while ago!
+Need to leave a blank line after the closing \<details\> tag.
