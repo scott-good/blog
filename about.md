@@ -47,7 +47,7 @@ Build a solution with OneDB and the HCL OneDB High Availability (HA) & Scale-Out
 
 </details>
 
-<details><summary>Troubleshooting and Limitations</summary>
+<details><summary><strong>Troubleshooting & Limitations</strong></summary>
 
 ### Limitations
 
