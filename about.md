@@ -10,9 +10,9 @@ It is a long established fact that a reader will be distracted by the readable c
 
 
 
-<details><summary>Reasons</summary>
+<details markdown=1><summary>Reasons</summary>
   <ul>
-    <li>Seemed like a good idea</li>
+    <li>Seemed like a *good* idea</li>
     <li>I'm learning while I go</li>
   </ul>
 </details>
