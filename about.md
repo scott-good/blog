@@ -35,7 +35,7 @@ Click on the "Open Link" button to launch HCL Accelerate in a new browser tab.
 CELEBRATE: Congratulations, you have successfully deployed and launched HCL Accelerate in a SoFy Demo Sandbox.
   </details>
   
-SECTION 1-2: Steps to seed HCL Accelerate with demo data
+  <details><summary>SECTION 1-2: Steps to seed HCL Accelerate with demo data</summary>
 
 As HCL Accelerate is data driven and the data is date sensitive, for the purposes of this demo it is important to seed the HCL Accelerate environment with meaningful data simulating integrations with the many tools that typically make up a DevOps pipeline. Tools used for the purposes of planning, continuous integration, continuous delivery, continuous testing, and continuous availability.<img align="right" style="width:40%;" src="https://hclcr.io/files/sofy/catalog/hcl-accelerate-demo/generic/accelerate_GettingStarted.png" />
   
@@ -52,6 +52,7 @@ As HCL Accelerate is data driven and the data is date sensitive, for the purpose
 5. Enable the EMRI_Bottleneck integration to trigger the bottleneck algorithm calculations.
 
 ADDITIONAL INFO: During the "Populating data" stage of the demo data load, a large number of data points will automatically be written to the MongoDB (Accelerate's repository). As this can take some time, please be patient (up to 15 minutes). The "Try sample demo data" progress bar will show when the demo data has been successfully loaded.
+  </details>
 </details>
 ---
 
