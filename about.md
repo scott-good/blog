@@ -32,12 +32,11 @@ When the deployment has completed, click on "View Solution Console" and authenti
 In the Solution Content section of the Solution Console view, locate the HCL Accelerate card and click on "General Information".
 Click on the "Open Link" button to launch HCL Accelerate in a new browser tab.
 
-CELEBRATE: Congratulations, you have successfully deployed and launched HCL Accelerate in a SoFy Demo Sandbox.
-  </details>
-  <details><summary><strong>SECTION 1-2: Steps to seed HCL Accelerate with demo data</strong></summary>
-
-    
-As HCL Accelerate is data driven and the data is date sensitive, for the purposes of this demo it is important to seed the HCL Accelerate environment with meaningful data simulating integrations with the many tools that typically make up a DevOps pipeline. Tools used for the purposes of planning, continuous integration, continuous delivery, continuous testing, and continuous availability.<img align="left" style="width:50%;" src="https://hclcr.io/files/sofy/catalog/hcl-accelerate-demo/generic/accelerate_GettingStarted.png" />
+CELEBRATE: Congratulations, you have successfully deployed and launched HCL Accelerate in a SoFy Demo Sandbox.</details>
+<details><summary><strong>SECTION 1-2: Steps to seed HCL Accelerate with demo data</strong></summary>
+&nbsp;
+As HCL Accelerate is data driven and the data is date sensitive, for the purposes of this demo it is important to seed the HCL Accelerate environment with meaningful data simulating integrations with the many tools that typically make up a DevOps pipeline. Tools used for the purposes of planning, continuous integration, continuous delivery, continuous testing, and continuous availability.
+    <img align="left" style="width:50%;" src="https://hclcr.io/files/sofy/catalog/hcl-accelerate-demo/generic/accelerate_GettingStarted.png" />
   
 **WARNING: Integrations with external repositories, not managed by HCL Software, are not permitted in a SoFy demo environment. To integrate HCL Accelerate with your tool repositories, please reach out to your HCL Software Sales Rep and ask about a Proof of Concept activity.**
   
