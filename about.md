@@ -43,9 +43,9 @@ As HCL Accelerate is data driven and the data is date sensitive, for the purpose
 2. On the "Getting started with HCL Accelerate" page, click "Install demo data" in the *Try sample demo data* panel.
   
   <details><summary>HINT</summary>
-  ---
+  <hr />
    *The Accelerate Getting started page is displayed once by default after the initial log in. If you are not presented with the "Getting started" page after authenticating with Accelerate, click the "?" on the top navigation bar and select "Getting started" from the list of options presented.*
-  ---
+  <hr />
   </details>
 
 3. When the demo data has finished loading (Install complete), navigate to the Settings page gear icon and click Integrations.
