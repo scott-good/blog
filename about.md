@@ -22,7 +22,7 @@ In order to experience the demo scenarios documented below, a working instance o
 1. Locate the HCL Accelerate product card in the SoFy catalog and click "Add to Solution".
 2. Enter a solution name and click "Create".
 
-> HINT: Solution names must be lower case alphanumeric and cannot contain any special characters.
+> HINT: Solution names must be comprised of lowercase alphanumeric characters and cannot contain any special characters.
 
 > ADDITIONAL INFO: Creating a SoFy solution will result in a custom helm chart being created for the purposes of bootstrapping the HCL Accelerate deployment in a kubernetes environment.
 
