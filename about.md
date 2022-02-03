@@ -2,7 +2,7 @@
 ## Overview
 <img align="right" src="https://www.hcltechsw.com/wps/wcm/connect/306fda5a-0485-4593-876b-d8f4a221b9cf/unprecendented%2Bvisibility%2Binto%2Byour%2Bvalue%2Bstream.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-306fda5a-0485-4593-876b-d8f4a221b9cf-nWaUQ84" style="width:50%;"/>**HCL Accelerate** is a data-driven value stream management platform that automates the delivery and interpretation of data so businesses can make faster, more strategic decisions and streamline processes.
 
-By integrating with the tools you’re already using, HCL Accelerate aggregates data from across your DevOps pipeline to give you actionable insights to get the most out of your DevOps investments. HCL Accelerate is part of HCL Software DevOps, a comprehensive DevOps product suite comprised of powerful, industry-proven software solutions.
+> By integrating with the tools you’re already using, HCL Accelerate aggregates data from across your DevOps pipeline to give you actionable insights to get the most out of your DevOps investments. HCL Accelerate is part of HCL Software DevOps, a comprehensive DevOps product suite comprised of powerful, industry-proven software solutions.
 
 **Capabilities include**:
 
