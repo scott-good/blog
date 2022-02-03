@@ -15,7 +15,7 @@ By integrating with the tools you’re already using, HCL Accelerate aggregates 
 
 ### SECTION 1: Preparing for HCL Accelerate Demo
   <details><summary><strong>Deploying HCL Accelerate to a SoFy sandbox</strong></summary><br />
-In order to experience the demo scenarios documented below, a working instance of HCL Accelerate must be running and seeded with data in a SoFy sandbox.<br />
+In order to experience the demo scenarios documented below, a working instance of HCL Accelerate must be running and seeded with data in a SoFy sandbox.<br /><br />
 
 **Steps to deploying and launching HCL Accelerate**
 
