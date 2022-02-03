@@ -17,7 +17,7 @@ By integrating with the tools you’re already using, HCL Accelerate aggregates 
   <details><summary><strong>Deploying HCL Accelerate to a SoFy sandbox</strong></summary><br />
 <i>To experience the demo scenarios documented below, a working instance of HCL Accelerate must be running and seeded with data in a SoFy sandbox.</i><br /><br />
 
-**Steps to deploying and launching HCL Accelerate**
+**Steps to deploying and launching HCL Accelerate in SoFy**
 
 1. Locate the HCL Accelerate product card in the SoFy catalog and click "Add to Solution".
 2. Enter a solution name and click "Create".
