@@ -15,6 +15,7 @@ By integrating with the tools you’re already using, HCL Accelerate aggregates 
 
 ### SECTION 1: Preparing for HCL Accelerate Demo
   <details><summary><strong>Deploying HCL Accelerate to a SoFy sandbox</strong></summary>
+  <br />
 In order to experience HCL Accelerate by completing the demo scenarios documented below, a working instance of HCL Software's value stream management solution must be running and seeded with data in a SoFy sandbox.
 
 Steps to deploying and launching HCL Accelerate
