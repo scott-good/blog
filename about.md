@@ -2,7 +2,7 @@
 ## Overview
 <img align="right" src="https://www.hcltechsw.com/wps/wcm/connect/306fda5a-0485-4593-876b-d8f4a221b9cf/unprecendented%2Bvisibility%2Binto%2Byour%2Bvalue%2Bstream.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-306fda5a-0485-4593-876b-d8f4a221b9cf-nWaUQ84" style="width:50%;"/>**HCL Accelerate** is a data-driven value stream management platform that automates the delivery and interpretation of data so businesses can make faster, more strategic decisions and streamline processes.
 
-> By integrating with the tools you’re already using, HCL Accelerate aggregates data from across your DevOps pipeline to give you actionable insights to get the most out of your DevOps investments. HCL Accelerate is part of HCL Software DevOps, a comprehensive DevOps product suite comprised of powerful, industry-proven software solutions.
+By integrating with the tools you’re already using, HCL Accelerate aggregates data from across your DevOps pipeline to give you actionable insights to get the most out of your DevOps investments. HCL Accelerate is part of HCL Software DevOps, a comprehensive DevOps product suite comprised of powerful, industry-proven software solutions.
 
 **Capabilities include**:
 
@@ -12,7 +12,7 @@
 - Value Stream Visualization: Delivery teams can go beyond traditional Agile views to provide real-time transparency from concept to production.
 - Strategic Decision Making: Executives get a complete picture of the DevOps organization, and can identify the top-performing teams to harvest best practices.
 
-<details><summary><strong>SECTION 1: Preparing for HCL Accelerate Demo</strong></summary>
+## SECTION 1: Preparing for HCL Accelerate Demo
   <br />
   <details><summary><strong>Deploying HCL Accelerate to a SoFy sandbox</strong></summary>
 In order to experience HCL Accelerate by completing the demo scenarios documented below, a working instance of HCL Software's value stream management solution must be running and seeded with data in a SoFy sandbox.
@@ -22,9 +22,9 @@ Steps to deploying and launching HCL Accelerate
 Locate the HCL Accelerate product card in the SoFy catalog and click "Add to Solution".
 Enter a solution name and click "Create".
 
-HINT: Solution names must be lower case alphanumeric and cannot contain any special characters.
+> HINT: Solution names must be lower case alphanumeric and cannot contain any special characters.
 
-ADDITIONAL INFO: Creating a SoFy solution will result in a custom helm chart being created for the purposes of bootstrapping the HCL Accelerate deployment in a kubernetes environment.
+> ADDITIONAL INFO: Creating a SoFy solution will result in a custom helm chart being created for the purposes of bootstrapping the HCL Accelerate deployment in a kubernetes environment.
 
 Click "Deploy" to create the HCL Accelerate demo environment in a SoFy sandbox.
 
@@ -40,22 +40,21 @@ As HCL Accelerate is data driven and the data is date sensitive, for the purpose
     
   <img align="left" style="width:50%;" src="https://hclcr.io/files/sofy/catalog/hcl-accelerate-demo/generic/accelerate_GettingStarted.png" />
   
-**WARNING: Integrations with external repositories, not managed by HCL Software, are not permitted in a SoFy demo environment. To integrate HCL Accelerate with your tool repositories, please reach out to your HCL Software Sales Rep and ask about a Proof of Concept activity.**
+> **WARNING: Integrations with external repositories, not managed by HCL Software, are not permitted in a SoFy demo environment. To integrate HCL Accelerate with your tool repositories, please reach out to your HCL Software Sales Rep and ask about a Proof of Concept activity.**
   
 1. Having navigated to the HCL Accelerate authentication page, log in using "admin" for both the Username and Password. Click "Login".
 2. On the "Getting started with HCL Accelerate" page, click "Install demo data" in the *Try sample demo data* panel.
   
-  <details><summary>HINT: Finding <i>Getting Started</i></summary><hr />
+> HINT: Finding <i>Getting Started</i>
    <i>The Accelerate <b>Getting started</b> page is displayed once by default after the initial log in. If you are not presented with the "Getting started" page after authenticating with Accelerate, click the "?" on the top navigation bar and select "Getting started" from the list of options presented.</i>
-  <hr /></details>
 
 3. When the demo data has finished loading (Install complete), navigate to the Settings page gear icon and click Integrations.
 4. Disable the EMRI_Bottleneck integration.
 5. Enable the EMRI_Bottleneck integration to trigger the bottleneck algorithm calculations.
 
-ADDITIONAL INFO: During the "Populating data" stage of the demo data load, a large number of data points will automatically be written to the MongoDB (Accelerate's repository). As this can take some time, please be patient (up to 15 minutes). The "Try sample demo data" progress bar will show when the demo data has been successfully loaded.
+> ADDITIONAL INFO: During the "Populating data" stage of the demo data load, a large number of data points will automatically be written to the MongoDB (Accelerate's repository). As this can take some time, please be patient (up to 15 minutes). The "Try sample demo data" progress bar will show when the demo data has been successfully loaded.
   </details>
-</details>
+
 ---
 
 <details><summary><strong>What’s New in this Helm Chart Version</strong></summary>
