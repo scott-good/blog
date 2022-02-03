@@ -12,7 +12,7 @@ By integrating with the tools you’re already using, HCL Accelerate aggregates 
 - Value Stream Visualization: Delivery teams can go beyond traditional Agile views to provide real-time transparency from concept to production.
 - Strategic Decision Making: Executives get a complete picture of the DevOps organization, and can identify the top-performing teams to harvest best practices.
 <br />
-<details><summary><img src="https://github.com/scott-good/blog/blob/main/Add_to_Solution_Text.png"></summary>
+<details><summary><img style="height: 20px;" src="https://github.com/scott-good/blog/blob/main/Add_to_Solution_Text.png"></summary>
   Testing using an image as a section label.
   </details>
   
