@@ -16,26 +16,24 @@ By integrating with the tools you’re already using, HCL Accelerate aggregates 
 ### SECTION 1: Preparing for HCL Accelerate Demo
   <details><summary><strong>Deploying HCL Accelerate to a SoFy sandbox</strong></summary>
   <br />
-In order to experience HCL Accelerate by completing the demo scenarios documented below, a working instance of HCL Software's value stream management solution must be running and seeded with data in a SoFy sandbox.
+In order to experience the demo scenarios documented below, a working instance of HCL Accelerate must be running and seeded with data in a SoFy sandbox.
 
-Steps to deploying and launching HCL Accelerate
+**Steps to deploying and launching HCL Accelerate**
 
-Locate the HCL Accelerate product card in the SoFy catalog and click "Add to Solution".
-Enter a solution name and click "Create".
+1. Locate the HCL Accelerate product card in the SoFy catalog and click "Add to Solution".
+2. Enter a solution name and click "Create".
 
 > HINT: Solution names must be lower case alphanumeric and cannot contain any special characters.
 
 > ADDITIONAL INFO: Creating a SoFy solution will result in a custom helm chart being created for the purposes of bootstrapping the HCL Accelerate deployment in a kubernetes environment.
 
-Click "Deploy" to create the HCL Accelerate demo environment in a SoFy sandbox.
+3. Click "Deploy" to create the HCL Accelerate demo environment in a SoFy sandbox. In just a few minutes, SoFy will deploy HCL Accelerate to HCL's Google Cloud sandbox environment.
 
-Very quickly, SoFy will deploy HCL Accelerate to HCL's Google Cloud sandbox environment.
+4. When the deployment has completed, click on "View Solution Console" and authenticate with the credentials provided.
+5. At the top of the Solution Console, locate the HCL Accelerate card and click on "General Information".
+6. Click on the "Open Link" button to launch HCL Accelerate in a new browser tab.
 
-When the deployment has completed, click on "View Solution Console" and authenticate with the credentials provided.
-In the Solution Content section of the Solution Console view, locate the HCL Accelerate card and click on "General Information".
-Click on the "Open Link" button to launch HCL Accelerate in a new browser tab.
-
-CELEBRATE: Congratulations, you have successfully deployed and launched HCL Accelerate in a SoFy Demo Sandbox.</details><details><summary><strong>Steps to seed HCL Accelerate with demo data</strong></summary>
+**CELEBRATE**: Congratulations, you have successfully deployed and launched HCL Accelerate in a SoFy Demo Sandbox!</details><details><summary><strong>Steps to seed HCL Accelerate with demo data</strong></summary>
 <br />
   <img align="right" style="width:50%;" src="https://hclcr.io/files/sofy/catalog/hcl-accelerate-demo/generic/accelerate_GettingStarted.png" />
 As HCL Accelerate is data driven and the data is date sensitive, for the purposes of this demo it is important to seed the HCL Accelerate environment with meaningful data simulating integrations with the many tools that typically make up a DevOps pipeline. Tools used for the purposes of planning, continuous integration, continuous delivery, continuous testing, and continuous availability.
