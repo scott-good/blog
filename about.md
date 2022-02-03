@@ -24,7 +24,7 @@ Enter a solution name and click "Create".
 
 HINT: Solution names must be lower case alphanumeric and cannot contain any special characters.
 
-ADDITIONAL INFO: Creating a SoFy solution will result in a custom helm chart being created for the purposes of bootstrapping the HCL Accelerate deployment in a kubernetes environment.
+<div class="extraInfo">ADDITIONAL INFO: Creating a SoFy solution will result in a custom helm chart being created for the purposes of bootstrapping the HCL Accelerate deployment in a kubernetes environment.</div>
 
 Click "Deploy" to create the HCL Accelerate demo environment in a SoFy sandbox.
 
