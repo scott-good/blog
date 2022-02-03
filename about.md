@@ -12,6 +12,7 @@ By integrating with the tools you’re already using, HCL Accelerate aggregates 
 - Value Stream Visualization: Delivery teams can go beyond traditional Agile views to provide real-time transparency from concept to production.
 - Strategic Decision Making: Executives get a complete picture of the DevOps organization, and can identify the top-performing teams to harvest best practices.
 <br />
+
 ### SECTION 1: Preparing for HCL Accelerate Demo
   <details><summary><strong>Deploying HCL Accelerate to a SoFy sandbox</strong></summary>
 In order to experience HCL Accelerate by completing the demo scenarios documented below, a working instance of HCL Software's value stream management solution must be running and seeded with data in a SoFy sandbox.
