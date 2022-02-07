@@ -49,7 +49,7 @@ Text in a pre element
 is displayed in a fixed-width
 font, and it preserves
 both      spaces and
-line breaks
+line breaks, and shows up on a background
 </pre>
 ```
 
@@ -58,7 +58,7 @@ Text in a pre element
 is displayed in a fixed-width
 font, and it preserves
 both      spaces and
-line breaks
+line breaks, and shows up on a background
 </pre>
 
 #### Section (section)
