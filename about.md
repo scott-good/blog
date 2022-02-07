@@ -18,27 +18,34 @@ By integrating with the tools you’re already using, HCL Accelerate aggregates 
 ---
 ## HTML Experimentation
 ### Block Elements
-<address>address</address>
-<article>article</article>
-<aside>aside</aside>
-<blockquote>blockquote</blockquote>
-<canvas>canvas</canvas>
-<dd>dd</dd>
-<div>div</div>
-<dl>dl</dl>
-<dt>dt</dt>
-<fieldset>fieldset</fieldset>
-<figcaption>figcaption</figcaption>
-<figure>figure</figure>
-<footer>footer</footer>
-<form>form</form>
-<header>header</header>
-<main>main</main>
-<nav>nav</nav>
-<noscript>noscript</noscript>
-<pre>pre</pre>
-<section>section</section>
-<video>video</video>
+#### Description List (dl, dt, dd)
+<dl>
+  <dt>Coffee</dt>
+  <dd>Black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>White cold drink</dd>
+</dl>
+#### Preformatted text (pre)
+Text in a \<pre\> element is displayed in a fixed-width font, and the text preserves both spaces and line breaks. The text will be displayed exactly as written in the HTML source code.
+<pre>
+Text in a pre element
+is displayed in a fixed-width
+font, and it preserves
+both      spaces and
+line breaks
+</pre>
+#### Section (section)
+This is two sections:
+<section>
+<h2>WWF History</h2>
+<p>The World Wide Fund for Nature (WWF) is an international organization working on issues regarding the conservation, research and restoration of the environment, formerly named the World Wildlife Fund. WWF was founded in 1961.</p>
+</section>
+
+<section>
+<h2>WWF's Symbol</h2>
+<p>The Panda has become the symbol of WWF. The well-known panda logo of WWF originated from a panda named Chi Chi that was transferred from the Beijing Zoo to the London Zoo in the same year of the establishment of WWF.</p>
+</section>
+
 ### Inline Elements
 <abbr>abbr</abbr>
 <acronym>acronym</acronym>
