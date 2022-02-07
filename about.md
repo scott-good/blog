@@ -76,7 +76,7 @@ This is two sections:
 </section>
 ```
 
-<a align="right" href="https://www.youtube.com/watch?v=-cCr7AO3J2A"><img src="YouTubeVideo.png" style="width: 50%;" /></a><section>
+<a href="https://www.youtube.com/watch?v=-cCr7AO3J2A"><img align="right" src="YouTubeVideo.png" style="width: 50%;" /></a><section>
 <h2>WWF History</h2>
 <p>The World Wide Fund for Nature (WWF) is an international organization working on issues regarding the conservation, research and restoration of the environment, formerly named the World Wildlife Fund. WWF was founded in 1961.</p>
 </section>
