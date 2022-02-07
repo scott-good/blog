@@ -15,7 +15,57 @@ By integrating with the tools you’re already using, HCL Accelerate aggregates 
 <details><summary><img style="height: 20px;" src="https://github.com/scott-good/blog/blob/main/Add_to_Solution_Text.png"></summary>
   Testing using an image as a section label.
   </details>
-  
+---
+## HTML Experimentation
+### Block Elements
+<address>address</address>
+<article>article</article>
+<aside>aside</aside>
+<blockquote>blockquote</blockquote>
+<canvas>canvas</canvas>
+<dd>dd</dd>
+<div>div</div>
+<dl>dl</dl>
+<dt>dt</dt>
+<fieldset>fieldset</fieldset>
+<figcaption>figcaption</figcaption>
+<figure>figure</figure>
+<footer>footer</footer>
+<form>form</form>
+<header>header</header>
+<main>main</main>
+<nav>nav</nav>
+<noscript>noscript</noscript>
+<pre>pre</pre>
+<section>section</section>
+<video>video</video>
+### Inline Elements
+<abbr>abbr</abbr>
+<acronym>acronym</acronym>
+<bdo>bdo</bdo>
+<big>big</big>
+<button>button</button>
+<cite>cite</cite>
+<code>code</code>
+<dfn>dfn</dfn>
+<input>input</input>
+<kbd>kbd</kbd>
+<label>label</label>
+<map>map</map>
+<object>object</object>
+<output>output</output>
+<q>q</q>
+<samp>samp</samp>
+<script>script</script>
+<select>select</select>
+<small>small</small>
+<sub>sub</sub>
+<sup>sup</sup>
+<textarea>textarea</textarea>
+<time>time</time>
+<tt>tt</tt>
+<var>var</var>
+---
 ### SECTION 1: Preparing for HCL Accelerate Demo
   <details><summary><strong>Deploying HCL Accelerate to a SoFy sandbox</strong></summary><br />
 <i>To experience the demo scenarios documented below, a working instance of HCL Accelerate must be running and seeded with data in a SoFy sandbox.</i><br /><br />
