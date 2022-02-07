@@ -23,13 +23,14 @@ By integrating with the tools you’re already using, HCL Accelerate aggregates 
 ### Block Elements
 
 #### Description List (dl, dt, dd)
-
-`<dl>
+<code>
+<dl>
   <dt>Coffee</dt>
   <dd>Black hot drink</dd>
   <dt>Milk</dt>
   <dd>White cold drink</dd>
-</dl>`
+</dl>
+</code>
 
 <dl>
   <dt>Coffee</dt>
