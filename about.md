@@ -76,7 +76,7 @@ This is two sections:
 </section>
 ```
 
-<section>
+<a align="right" href="https://www.youtube.com/watch?v=-cCr7AO3J2A"><img src="YouTubeVideo.png" style="width: 50%;" /></a><section>
 <h2>WWF History</h2>
 <p>The World Wide Fund for Nature (WWF) is an international organization working on issues regarding the conservation, research and restoration of the environment, formerly named the World Wildlife Fund. WWF was founded in 1961.</p>
 </section>
@@ -153,9 +153,7 @@ Variable (var)
 2. Enter a solution name and click "Create".
 
 > HINT: Solution names must be comprised of lowercase alphanumeric characters and cannot contain any special characters.
-  
-  > > This is a second-level blockquote
-  
+    
 > ADDITIONAL INFO: Creating a SoFy solution will result in a custom helm chart being created for the purposes of bootstrapping the HCL Accelerate deployment in a kubernetes environment.
 
 3. Click "Deploy" to create the HCL Accelerate demo environment in a SoFy sandbox. In just a few minutes, SoFy will deploy HCL Accelerate to HCL's Google Cloud sandbox environment.
