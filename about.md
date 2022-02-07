@@ -28,7 +28,9 @@ By integrating with the tools you’re already using, HCL Accelerate aggregates 
 2. Enter a solution name and click "Create".
 
 > HINT: Solution names must be comprised of lowercase alphanumeric characters and cannot contain any special characters.
+  
   > > This is a second-level blockquote
+  
 > ADDITIONAL INFO: Creating a SoFy solution will result in a custom helm chart being created for the purposes of bootstrapping the HCL Accelerate deployment in a kubernetes environment.
 
 3. Click "Deploy" to create the HCL Accelerate demo environment in a SoFy sandbox. In just a few minutes, SoFy will deploy HCL Accelerate to HCL's Google Cloud sandbox environment.
