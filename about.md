@@ -15,17 +15,24 @@ By integrating with the tools you’re already using, HCL Accelerate aggregates 
 <details><summary><img style="height: 20px;" src="https://github.com/scott-good/blog/blob/main/Add_to_Solution_Text.png"></summary>
   Testing using an image as a section label.
   </details>
+  
 ---
+
 ## HTML Experimentation
+
 ### Block Elements
+
 #### Description List (dl, dt, dd)
+
 <dl>
   <dt>Coffee</dt>
   <dd>Black hot drink</dd>
   <dt>Milk</dt>
   <dd>White cold drink</dd>
 </dl>
+
 #### Preformatted text (pre)
+
 Text in a \<pre\> element is displayed in a fixed-width font, and the text preserves both spaces and line breaks. The text will be displayed exactly as written in the HTML source code.
 <pre>
 Text in a pre element
@@ -34,7 +41,9 @@ font, and it preserves
 both      spaces and
 line breaks
 </pre>
+
 #### Section (section)
+
 This is two sections:
 <section>
 <h2>WWF History</h2>
@@ -47,6 +56,7 @@ This is two sections:
 </section>
 
 ### Inline Elements
+
 <abbr>abbr</abbr>
 <acronym>acronym</acronym>
 <bdo>bdo</bdo>
