@@ -86,33 +86,58 @@ This is two sections:
 <p>The Panda has become the symbol of WWF. The well-known panda logo of WWF originated from a panda named Chi Chi that was transferred from the Beijing Zoo to the London Zoo in the same year of the establishment of WWF.</p>
 </section>
 
+---
+
 ### Inline Elements
 
-<abbr>abbr</abbr>
-<acronym>acronym</acronym>
-<bdo>bdo</bdo>
-<big>big</big>
-<button>button</button>
-<cite>cite</cite>
-<code>code</code>
-<dfn>dfn</dfn>
-<input>input</input>
-<kbd>kbd</kbd>
-<label>label</label>
-<map>map</map>
-<object>object</object>
-<output>output</output>
-<q>q</q>
-<samp>samp</samp>
-<script>script</script>
-<select>select</select>
-<small>small</small>
-<sub>sub</sub>
-<sup>sup</sup>
-<textarea>textarea</textarea>
-<time>time</time>
-<tt>tt</tt>
-<var>var</var>
+#### Keyboard (kbd)
+
+```
+<p>Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy text (Windows).</p>
+```
+
+<p>Press <kbd>Ctrl</kbd> + <kbd>C</kbd> to copy text (Windows).</p>
+
+#### Short Quotation (q)
+
+```
+<p>WWF's goal is to:
+<q>Build a future where people live in harmony with nature.</q>
+We hope they succeed.</p>
+```
+
+<p>WWF's goal is to:
+<q>Build a future where people live in harmony with nature.</q>
+We hope they succeed.</p>
+
+#### Sample Output (samp)
+
+```
+<p>Message from my computer:</p>
+<p><samp>File not found.<br>Press F1 to continue</samp></p>
+```
+
+<p>Message from my computer:</p>
+
+<p><samp>File not found.<br>Press F1 to continue</samp></p>
+
+#### Subscript and Superscript (sub and sup)
+
+```
+<p>H<sub>2</sub>O</p>
+<p>E=MC<sup>2</sup></p>
+```
+
+<p>H<sub>2</sub>O</p>
+<p>E=MC<sup>2</sup></p>
+
+Variable (var)
+
+```
+<p>The area of a triangle is: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.</p>
+```
+
+<p>The area of a triangle is: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.</p>
 ---
 ### SECTION 1: Preparing for HCL Accelerate Demo
   <details><summary><strong>Deploying HCL Accelerate to a SoFy sandbox</strong></summary><br />
