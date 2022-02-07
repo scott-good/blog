@@ -42,13 +42,16 @@ By integrating with the tools you’re already using, HCL Accelerate aggregates 
 #### Preformatted text (pre)
 
 Text in a \<pre\> element is displayed in a fixed-width font, and the text preserves both spaces and line breaks. The text will be displayed exactly as written in the HTML source code.
-`<pre>
+
+```
+<pre>
 Text in a pre element
 is displayed in a fixed-width
 font, and it preserves
 both      spaces and
 line breaks
-</pre>`
+</pre>
+```
 
 <pre>
 Text in a pre element
@@ -61,7 +64,8 @@ line breaks
 #### Section (section)
 
 This is two sections:
-`<section>
+```
+<section>
 <h2>WWF History</h2>
 <p>The World Wide Fund for Nature (WWF) is an international organization working on issues regarding the conservation, research and restoration of the environment, formerly named the World Wildlife Fund. WWF was founded in 1961.</p>
 </section>
@@ -69,7 +73,8 @@ This is two sections:
 <section>
 <h2>WWF's Symbol</h2>
 <p>The Panda has become the symbol of WWF. The well-known panda logo of WWF originated from a panda named Chi Chi that was transferred from the Beijing Zoo to the London Zoo in the same year of the establishment of WWF.</p>
-</section>`
+</section>
+```
 
 <section>
 <h2>WWF History</h2>
