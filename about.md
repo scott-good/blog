@@ -16,8 +16,8 @@ By integrating with the tools you’re already using, HCL Accelerate aggregates 
   Testing using an image as a section label.
   </details>
   
-1.	On the console you can adjust the client workload (simulate increasing or decreasing) via the top left panel slider bar.  You will notice the Session Count value for the servers increase or decrease accordingly.
-2.	On the top right panel, you can view the auto scaling threshold % values which have been set for the demo instance.
+1. On the console you can adjust the client workload (simulate increasing or decreasing) via the top left panel slider bar.  You will notice the Session Count value for the servers increase or decrease accordingly.
+2. On the top right panel, you can view the auto scaling threshold % values which have been set for the demo instance.
 
     -	Left axis shows the overall cpu usage for the customer.
     -	First column is for the server.  The default threshold value is set to 90% for this demo. In actual OneDB product implementation, the threshold value may be different/is configurable.
@@ -25,8 +25,8 @@ By integrating with the tools you’re already using, HCL Accelerate aggregates 
     -	Third column shows the count (#) of OneDB servers. This will increase or decrease during the demo.
     -	Fourth column is the count (#) of Connection Managers.
 
-3.	Scaling up by the Kubernetes scheduler usually initiates within approximately 3 mins.  The Horizontal Pod Autoscaler (HPA) automatically scales the number of pods in a replication controller, deployment, replica set or stateful set based on observed CPU utilization. (For more info see: [Horizontal Pod Autoscaler | Kubernetes](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)).
-4.	Scaling down takes slightly longer and initiates within approximately 5 minutes after being under the designated threshold percentage.
+3. Scaling up by the Kubernetes scheduler usually initiates within approximately 3 mins.  The Horizontal Pod Autoscaler (HPA) automatically scales the number of pods in a replication controller, deployment, replica set or stateful set based on observed CPU utilization. (For more info see: [Horizontal Pod Autoscaler | Kubernetes](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)).
+4. Scaling down takes slightly longer and initiates within approximately 5 minutes after being under the designated threshold percentage.
 
 ---
 
