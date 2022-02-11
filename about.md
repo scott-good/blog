@@ -5,12 +5,11 @@
 By integrating with the tools you’re already using, HCL Accelerate aggregates data from across your DevOps pipeline to give you actionable insights to get the most out of your DevOps investments. HCL Accelerate is part of HCL Software DevOps, a comprehensive DevOps product suite comprised of powerful, industry-proven software solutions.
 
 **Capabilities include**:
-
-> - **DevOps Analytics**: Transformation leaders can realize the value of hidden continuous delivery data by making it visible and actionable.
-> - **Pipeline Aggregation**: Development teams with complex, multi-service applications can orchestrate their continuous delivery pipelines in a single view.
-> - **Release Management**: Release teams can move to more frequent releases with lightweight, self-service tools including templates and automated controls.
-> - **Value Stream Visualization**: Delivery teams can go beyond traditional Agile views to provide real-time transparency from concept to production.
-> - **Strategic Decision Making**: Executives get a complete picture of the DevOps organization, and can identify the top-performing teams to harvest best practices.
+- **DevOps Analytics**: Transformation leaders can realize the value of hidden continuous delivery data by making it visible and actionable.
+- **Pipeline Aggregation**: Development teams with complex, multi-service applications can orchestrate their continuous delivery pipelines in a single view.
+- **Release Management**: Release teams can move to more frequent releases with lightweight, self-service tools including templates and automated controls.
+- **Value Stream Visualization**: Delivery teams can go beyond traditional Agile views to provide real-time transparency from concept to production.
+- **Strategic Decision Making**: Executives get a complete picture of the DevOps organization, and can identify the top-performing teams to harvest best practices.
 <br />
   
 1. On the console you can adjust the client workload (simulate increasing or decreasing) via the top left panel slider bar.  You will notice the Session Count value for the servers increase or decrease accordingly.
