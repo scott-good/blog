@@ -1,14 +1,10 @@
 # HCL Accelerate
 ## Overview
-<img align="right" src="https://www.hcltechsw.com/wps/wcm/connect/306fda5a-0485-4593-876b-d8f4a221b9cf/unprecendented%2Bvisibility%2Binto%2Byour%2Bvalue%2Bstream.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-306fda5a-0485-4593-876b-d8f4a221b9cf-nWaUQ84" style="width:50%;"/>**HCL Accelerate** is a data-driven value stream management platform that automates the delivery and interpretation of data so businesses can make faster, more strategic decisions and streamline processes.
+<img align="right" src="https://www.hcltechsw.com/wps/wcm/connect/306fda5a-0485-4593-876b-d8f4a221b9cf/unprecendented%2Bvisibility%2Binto%2Byour%2Bvalue%2Bstream.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-306fda5a-0485-4593-876b-d8f4a221b9cf-nWaUQ84" style="width:50%;"/>**HCL Accelerate** is a data-driven value stream management platform that *automates the delivery and interpretation of data* so businesses can make faster, more strategic decisions and streamline processes.
 
 **Capabilities include**:
 - **DevOps Analytics**: Transformation leaders can realize the value of hidden continuous delivery data by making it visible and actionable.
 - **Pipeline Aggregation**: Development teams with complex, multi-service applications can orchestrate their continuous delivery pipelines in a single view.
-- **Release Management**: Release teams can move to more frequent releases with lightweight, self-service tools including templates and automated controls.
-- **Value Stream Visualization**: Delivery teams can go beyond traditional Agile views to provide real-time transparency from concept to production.
-- **Strategic Decision Making**: Executives get a complete picture of the DevOps organization, and can identify the top-performing teams to harvest best practices.
-<br />
 
 ### SECTION 1: Preparing for HCL Accelerate Demo
   <details><summary><strong>Deploying HCL Accelerate to a SoFy sandbox</strong></summary><br />
