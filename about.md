@@ -192,35 +192,6 @@ Variable (var)
 
 ---
 
-
-
-<details><summary><strong>What’s New in this Helm Chart Version</strong></summary>
-  
-</details>
-<details><summary><strong>Product Documentation</strong></summary>
-  
-</details>
-<details><summary><strong>Incompatibilities</strong></summary>
-  
-</details>
-<details><summary><strong>Limitations</strong></summary>
-  
-</details>
-<details><summary><strong>Using … in SoFy</strong></summary>
-  
-</details>
-<details><summary><strong>Advanced Configuration Settings</strong></summary>
-  
-</details>
-<details><summary><strong>Supported Environments</strong></summary>
-  
-</details>
-<details><summary><strong>Upgrades</strong></summary>
-  
-</details>
-
-
-
 <details><summary><strong>Collapsible Sections</strong></summary>
   <ul>
     <li>Some content needs to be written as HTML, such as unordered lists.</li>
