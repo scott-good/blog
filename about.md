@@ -102,6 +102,7 @@ both      spaces and
 line breaks, and shows up on a background
 </pre>
 ```
+EXAMPLE: 
 
 <pre>
 Text in a pre element
